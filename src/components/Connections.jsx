@@ -59,7 +59,7 @@ const Connections = () => {
               {about ? (
                 <p className="mt-1 text-gray-300">{about}</p>
               ) : (
-                <p className="mt-1 text-gray-500 italic">No about provided</p>
+                <p className="mt-1 text-gray-500 italic">This is default about the User</p>
               )}
             </div>
           </div>
